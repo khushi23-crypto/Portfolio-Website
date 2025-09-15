@@ -1,0 +1,15 @@
+# Node modules
+node_modules/
+
+# Build folders
+dist/
+build/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+
+# PDFs or large files you don't want to track
+*.pdf
